@@ -1,2 +1,3 @@
-# CoroRP-Fiches
-Fiches du CoroRP
+# Fiches du RP Corobizar
+
+Répertoire des fiches du CoroRP
