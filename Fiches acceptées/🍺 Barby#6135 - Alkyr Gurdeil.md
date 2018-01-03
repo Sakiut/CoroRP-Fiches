@@ -1,8 +1,9 @@
+# Fiche de Personnage - Alkyr Gurdeil
 
-- **nom** : Gurdeil
+- **Nom** : Gurdeil
 - **Prénom** : Alkyr
-- **Surnom** :L'errant de métal
-- **Âge** : 28ans
+- **Surnom** : L'Errant de métal
+- **Âge** : 28 ans
 - **Race** : Humain hybride, entre un humain et un grizzly suite à la contamination de son sang par un humain maudit
 - **Métier** : Soldat mercenaire près à tout pour se venger d'un meurtre. Celui de sa famille et de son village, cherchant à se venger en trouvant La "horde" sur le champs de bataille
 - **Équipement** : hache à une main à sa taille, Une hache à deux mains en acier ayant des runes gravées sur la lame.
@@ -11,7 +12,7 @@
   - Largeur d'épaules : 80 cm
   - Poids : 155kg (sans armure)
 
-**Description physique**
+## Description physique
 
 Une hache au côté, un visage balafré, Alkyr s'approcha du feu. son sac était lourd, les restes de sa dernière victime y était restés. Le posant devant son bivouac, il observa le lac. Son reflet s'y projetait avec la même exactitude que les débris de miroirs qu'il avait pu trouver, autrefois.
 
@@ -25,10 +26,12 @@ Il faisait très sombre, tout comme là, au cours d'un hasard malchanceux il l'a
 
 De sa partie de type "Hache" rien de plus qu'une lame d'un type approchant du style des nains. Cependant dès que l'on se rapprochait du manche, des couches de métal se concentraient pour devenir une sorte de marteau en forme de cristal, dirigé sur à la perpendiculaire de la lame-hache. En supplément se rajoutait une série de piques sur tout le long du manche, jusqu'à l'emplacement de la poignée. Enfin ce n'est qu'une arme parmi tant d'autre...
 
-**Description mentale**
+## Description mentale
+
 S'observant plus assidûment Alkyr remarquait le changement, son visage en effet était devenu plus dur, sa cicatrice, plus marquée, et son tempérament, trempé dans de l'acier. Il ne faiblissait plus à la moindre bataille, trop avaient déjà eu lieues. Ainsi il se demandait se qui avait changé. Si c'est vrai que l'apparence de l'homme n'était pas une copie conforme de l'enfant, elle s'y approchait comme elle pouvait. Toutefois, toujours ce mental.. Lui s'était vu une mission s'ancrer dans un esprit encore meuble. La vengeance. Au plus loin qu'il se souvenait, Alkyr n'avait été que peu au courant de ce que ses parents auraient voulu qu'il fasse, guerrier, Forgeron comme leur pairs, ou encore mage, il n'en savait rien. leur seul legs, involontaire, fut cette arme qu'il tenait désormais dans ses mains durant les effusions de sang. On ne peut réellement haïr ses parents, on ne fait que les détester, car on ne les comprend guère, toutefois Alkyr n'était encore qu'une âme fragile en ce qui concernait les sentiments, il n'en connaissait finalement que quelques-uns. La Haine, la Peur,la Colère, et la Rage. Cette dernière le définissait, le consumait, et pourtant le faisait vivre. Un profond désir de pouvoir tuer les attaquants de son village natal se faisait ressentir chaque matin. Aussi, chaque matin, il sortait ses armes, améliorait son armure avec les pièces qu'il avait trouvé, et tout cela dans un seul but, bientôt voir le sang couler...
 
-**Histoire**
+## Histoire
+
 Tout avait débuté le soir de son anniversaire. Ses parents, ou du moins le souvenir vague qu'il en avait, venaient de sortir de la bicoque où tous vivaient. Le problème vint quand Ils arrivèrent. L'automne se finissait et des zéphyrs trouvaient leur place dans les plaines. les forêts vides, devenaient des tombeaux vivant, l'air se gelait, et paradoxe, le village continuait de poursuivre son activité. Les tueurs étaient montés sur des chevaux de guerre ou courrait en hurlant. Aussi quand Ils arrivèrent, tous le monde était affairé, dans une ambiance assez électrique, Slotan criait à plein poumons sur ses fils dans une forge concurrente de celle du père de "l'errant". Le village était entièrement tourné vers les métiers de la forge et de la métallurgie, on sortait des fournaises des épées pouvant traverser des pays entiers pour arriver à leur destination. C'est comme ça qu'il connurent la ville centrale de Corobozros.
 
 Les affaires avançaient donc bien et la renommée locale du village grandissait forcément, hélas... Lors de ce fameux soir, une horde, enfin une "troupe"  de soldat, fuyant le nord venaient, et ne se gênait pas pour piller. L'inconvénient alors de ce village était qu'au moment de leur passage, il était prospère et grandissait, au point de sembler vouloir devenir une ville. Or c'est exactement ce que recherche tout mercenaire. Et dès lors, le village fut condamné. les attaquants déferlèrent de tous les côtés en hurlant. Des hommes,-mi bêtes, mi animaux  portant nuls insignes, portant nuls médailles, portant nuls étendards. Une armée errante, qui fuyait et qui savait montrer les crocs... Les maisons brûlèrent, les armes furent saisies, butin de guerre alléchant.
@@ -49,7 +52,7 @@ Assis sur un banc se trouvait un homme au cheveux grisonnants en tunique de lin 
 
 Près d'un an et demi après l'arrivée d'Alkyr à la cahute, le travail de la terre et ses essais d'alpinismes avait fortifié le corps d'Alkyr. Sa stature avait déjà celle d'un homme adulte et l'ermite le regardait d'un air de plus en plus étrange. Un jour, L'ermite appela Alkyr pour l'aider dans un nouvel essai de potion. L'ermite lui demanda alors de s’asseoir et lui tendit un flacon :
 
-«je pense bien avoir réussi quelque chose de grandiose mon ami, s'exclama l'homme, admire ça !»
+« Je pense bien avoir réussi quelque chose de grandiose mon ami, s'exclama l'homme, admire ça !»
 
 Étonné, Alkyr se pencha pour observer la solution. Un liquide bleuâtre tournoyait autour d'un cœur pourpre. De fines formes troubles et entrelacées semblaient former un réseau de veinures autour de ce cœur. Alkyr eu un moment d'arrêt, de surprise et d'horreur il lâcha le flacon qui tomba sur la table branlante à côté de lui. Le cœur rouge sang semblait avoir bougé. La respiration haletante et les yeux écarquillés, Alkyr fixa son regard dans le vide de stupeur et ne sentit alors ni les griffures du verre entaillant sa peau ni la potion sur son bras droit. Sa peau commençait à le brûler, son bras semblait piqué de toute part. Des formes troubles apparaissaient devant ses yeux, un éclat, une fumerolle, un coin de bâtiment, une porte. Une odeur. Une odeur qui vous torturait les sens, qui vous faisait perdre la raison. Celle de la mort.
 
@@ -73,7 +76,7 @@ Alkyr secoua sa tête à droite et à gauche pour évacuer la souffrance qui ven
 
 
 
-**Capacités**
+## Capacités
 
 Sous le coup de la colère ou consciemment Alkyr peut se transformer en grizzly géant ( géant par sa stature déjà extrêmement imposante sous forme humaine )
     
