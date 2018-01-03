@@ -12,7 +12,7 @@
   - Largeur d'épaules : 80 cm
   - Poids : 155kg (sans armure)
 
-## Description physique
+### Description physique
 
 Une hache au côté, un visage balafré, Alkyr s'approcha du feu. son sac était lourd, les restes de sa dernière victime y était restés. Le posant devant son bivouac, il observa le lac. Son reflet s'y projetait avec la même exactitude que les débris de miroirs qu'il avait pu trouver, autrefois.
 
@@ -26,7 +26,7 @@ Il faisait très sombre, tout comme là, au cours d'un hasard malchanceux il l'a
 
 De sa partie de type "Hache" rien de plus qu'une lame d'un type approchant du style des nains. Cependant dès que l'on se rapprochait du manche, des couches de métal se concentraient pour devenir une sorte de marteau en forme de cristal, dirigé sur à la perpendiculaire de la lame-hache. En supplément se rajoutait une série de piques sur tout le long du manche, jusqu'à l'emplacement de la poignée. Enfin ce n'est qu'une arme parmi tant d'autre...
 
-## Description mentale
+### Description mentale
 
 S'observant plus assidûment Alkyr remarquait le changement, son visage en effet était devenu plus dur, sa cicatrice, plus marquée, et son tempérament, trempé dans de l'acier. Il ne faiblissait plus à la moindre bataille, trop avaient déjà eu lieues. Ainsi il se demandait se qui avait changé. Si c'est vrai que l'apparence de l'homme n'était pas une copie conforme de l'enfant, elle s'y approchait comme elle pouvait. Toutefois, toujours ce mental.. Lui s'était vu une mission s'ancrer dans un esprit encore meuble. La vengeance. Au plus loin qu'il se souvenait, Alkyr n'avait été que peu au courant de ce que ses parents auraient voulu qu'il fasse, guerrier, Forgeron comme leur pairs, ou encore mage, il n'en savait rien. leur seul legs, involontaire, fut cette arme qu'il tenait désormais dans ses mains durant les effusions de sang. On ne peut réellement haïr ses parents, on ne fait que les détester, car on ne les comprend guère, toutefois Alkyr n'était encore qu'une âme fragile en ce qui concernait les sentiments, il n'en connaissait finalement que quelques-uns. La Haine, la Peur,la Colère, et la Rage. Cette dernière le définissait, le consumait, et pourtant le faisait vivre. Un profond désir de pouvoir tuer les attaquants de son village natal se faisait ressentir chaque matin. Aussi, chaque matin, il sortait ses armes, améliorait son armure avec les pièces qu'il avait trouvé, et tout cela dans un seul but, bientôt voir le sang couler...
 
@@ -76,7 +76,7 @@ Alkyr secoua sa tête à droite et à gauche pour évacuer la souffrance qui ven
 
 
 
-## Capacités
+### Capacités
 
 Sous le coup de la colère ou consciemment Alkyr peut se transformer en grizzly géant ( géant par sa stature déjà extrêmement imposante sous forme humaine )
     
